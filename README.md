@@ -1,3 +1,3 @@
 **PATTERN PROGRAMS**
 
-Writing JAVA programs to print various pattern programs
+Writing JAVA programs to print various patterns
